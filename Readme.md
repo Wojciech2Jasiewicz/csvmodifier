@@ -16,8 +16,8 @@ In order to do a setup, go through the following steps:
 
 # How to use that
 
-`~` - directory where the csvmodifier was downloaded
-Tip: make wpe_merge as executable before you get started (linux)
+- `~` - directory where the csvmodifier was downloaded
+- Tip: make wpe_merge as executable before you get started (linux)
 
 In order to run that program go to `~/csvmodifier/` and enter the following command:
 `./wpe_merge <inputfile> <outputfile>`
